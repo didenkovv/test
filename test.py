@@ -1,3 +1,4 @@
 #!/bin/python
 
 /pwd
+/mc
